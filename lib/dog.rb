@@ -23,7 +23,8 @@ end
 brown = Dog.new("brown", "puddle")
 
 brown.name
-
 brown.name = "Browner"
-brown.name
+brown.breed
+brown.breed = "German"
+
 end
